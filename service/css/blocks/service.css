@@ -1,0 +1,23 @@
+.service__item {
+    display: flex;
+    justify-self: space-between;
+    
+    
+    font-size: 16px;
+    color: #666666;
+    
+
+}
+.service__info {
+    display: flex;
+    justify-self: space-between;
+    padding: 0;
+  
+}
+
+.service__icon {
+    width: 26px;
+    height: 26px;
+    
+
+}
