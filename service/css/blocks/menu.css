@@ -1,0 +1,13 @@
+.menu {
+  display: flex;
+  justify-content: space-between;  
+}
+.menu__item {
+    display: inline-flex;
+    vertical-align: middle;
+    margin-right: 54px;
+}
+.menu__link {
+    font-size: 14px;
+    text-decoration: none
+}
